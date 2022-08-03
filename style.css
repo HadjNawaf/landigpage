@@ -1,17 +1,9 @@
-body {
-    background-color: #e67b13;
+.bg-orange {
+  background-color: #e67b13;
 }
-H1{
-color: white;
+H1 {
+  color: white;
 }
-
-.flex{
-    display:flex;
-}
-
-.justify-center{
-justify-content: center;
-}
-.flex{
-    top: 100px;
+.p-0 {
+  padding: 0px;
 }
